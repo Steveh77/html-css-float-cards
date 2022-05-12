@@ -32,17 +32,17 @@ h1{
     float: left;
     border: 10px solid;
 }
+.description{
+    padding-left: 115px;
+    padding-top: 5px;
+}
+
 a{
     color: rgb(31,92,136);
-    font-weight: bold;
 }
 img{
     float: left;
     height: 100px;
-}
-.description{
-    padding: 5px;
-    
 }
 .clearfix::after{
     content:"";
