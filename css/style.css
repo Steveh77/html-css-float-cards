@@ -13,3 +13,11 @@ pink E53170 */
 body{
     font-family: 'Fredoka', sans-serif;
 }
+h1{
+    color:rgb(229,49,112);
+    padding: 50px 50px;
+}
+header{
+    text-align: center;
+    padding: 50px 50px;
+}
